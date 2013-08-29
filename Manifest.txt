@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/acts_as_notable
+lib/acts_as_notable.rb
+test/test_acts_as_notable.rb
